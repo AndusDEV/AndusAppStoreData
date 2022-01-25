@@ -1,0 +1,17 @@
+title= App1
+desc= An example app
+author= Andus
+version= 0.1
+web= https://example.com
+jarDown= https://andus.dev/download/example.jar
+exeDown= none
+
+---
+
+title= App2
+desc= An example app but it's 2
+author= Andus
+version= 0.1
+web= https://example.com
+jarDown= https://andus.dev/download/example.jar
+exeDown= none
